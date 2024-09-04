@@ -6,6 +6,20 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>dddds</h1>
+<form action="" method="get">
+    <label for="">Digite um numero</label>
+    <input type="number" name="nota">
+    <br>
+    <input type="submit">
+    </form>
+
 </body>
+
+<?php 
+
+
+?>
+
+
+
 </html>
